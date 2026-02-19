@@ -1,0 +1,6 @@
+@PrepaymentAPI_HostAddress = http://localhost:5063
+
+GET {{PrepaymentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
