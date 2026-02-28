@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HiuegPGLQfgQHqfH79/dSclOwemCckhJ3nrZ9zEwm6M=",
+  "Source": "PrepaymentAPI",
+  "BasePath": "_content/PrepaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
